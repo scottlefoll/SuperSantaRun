@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Workspaces/sandip_android_studio_workspace/SuperSantaRun/app/src/main/res/layout/activity_main.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android/Workspaces/sandip_android_studio_workspace/SuperSantaRun/app/src/main/res/layout/game_over.xml" value="0.30416666666666664" />
+        <entry key="..\:/UDEMY Courses/9 - Android Game Development - Endless Runner Game in Android/Source code/SuperSantaRun/app/src/main/res/layout/game_over.xml" value="0.32447916666666665" />
+        <entry key="..\:/Users/Sandip/Desktop/SuperSantaRun/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Sandip/Desktop/SuperSantaRun/app/src/main/res/layout/game_over.xml" value="0.5" />
+        <entry key="..\:/Users/Sandip/Desktop/SuperSantaRun/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Sandip/Desktop/SuperSantaRun/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
